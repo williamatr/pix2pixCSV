@@ -12,7 +12,7 @@ _Projecto basado en pix2pixHD_
   sin alterar los parametros del paper original.
 </p>
 <div align="center">
-    <img src="./resultadosPrimeraPrueba.png" alt="" width="400" height="558" />
+    <img src="./resultadosPrimeraPrueba.png" alt="" width="450" height="558" />
 </div>
 
 ## Autores ✒️
